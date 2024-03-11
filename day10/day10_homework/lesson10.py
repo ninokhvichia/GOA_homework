@@ -2,9 +2,6 @@
     #print(i)
 
 
-
-
-
 # num1 = int(input())
 # num2 = int(input())
 
@@ -12,21 +9,12 @@
 #     print(i)
 
 
-
-
-
 # for i in range(50,101):
 #     print(i)
 
 
-
-
 # for i in range(100,49,-1):
 #     print(i)
-
-
-
-
 
 # for i in range (0,51):
 #     print(i)
@@ -37,16 +25,9 @@
 # print(sum)
 
 
-
-
-
 # num1 = int(input('enter number: '))
 # for i  in range(0,num1):
 #     print(i)
-
-
-
-
 
 # age = int(input("Enter Age: "))
 # age1 = age + 15

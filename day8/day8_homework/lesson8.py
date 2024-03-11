@@ -31,8 +31,8 @@ print(nani and noni)
 
 (7)
 #run 5 kilometrs "and" rest for 20 minutes
-rest=ten_minute=False
 run=four_kilometrs=False
+rest=ten_minute=False
 print(rest and run)
 
 (8)
