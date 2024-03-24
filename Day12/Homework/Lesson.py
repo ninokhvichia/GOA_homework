@@ -64,4 +64,3 @@
 #     print("You can participate in elections")
 # else:
 #     print("You cannot participate in elections")
-
