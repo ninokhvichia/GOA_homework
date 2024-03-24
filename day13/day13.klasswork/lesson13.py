@@ -58,11 +58,11 @@
 
 
 #(8)
-number =int(input("Please Enter Number: "))
+# number =int(input("Please Enter Number: "))
 
-if number %2 == 0:
-    print("The number is even")
-elif number ==0:
-    print("your number is zero")
-else:
-    print("The number is Odd")
+# if number %2 == 0:
+#     print("The number is even")
+# elif number ==0:
+#     print("your number is zero")
+# else:
+#     print("The number is Odd")
